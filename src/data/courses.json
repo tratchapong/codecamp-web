@@ -1,0 +1,957 @@
+[
+  {
+    "slug": "offline-fullstack-weekday",
+    "isClosed": true,
+    "title": "Fullstack CodeCamp #24 (Weekday)",
+    "metaTitle": "Fullstack CodeCamp #24 (Onsite) | คอร์สเปลี่ยนสายสู่งาน Developer พร้อมโอกาสได้งานจริง",
+    "metaDescription": "เรียน Fullstack Onsite พญาไท 3.5 เดือน จากศูนย์สู่การเป็น Developer พร้อมทำโปรเจกต์จริง, Career Prep ตรวจ Resume, Demo Day พบบริษัทพาร์ทเนอร์ และการันตีที่ฝึกงานกับบริษัทพาร์ทเนอร์สำหรับคนที่อยากเริ่มต้นหางานแรก",
+    "keywords": [
+      "Coding Bootcamp",
+      "Bootcamp สอนเขียนโปรแกรม",
+      "Fullstack Bootcamp",
+      "บูทแคมป์โปรแกรมเมอร์",
+      "หางานโปรแกรมเมอร์",
+      "เรียนเขียนโปรแกรมหางาน",
+      "เปลี่ยนสายเป็น Developer",
+      "คอร์ส Fullstack หางาน",
+      "เรียน Fullstack Onsite",
+      "คอร์สโปรแกรมเมอร์มีงานรองรับ",
+      "ฝึกงาน Developer",
+      "การันตีที่ฝึกงาน",
+      "CodeCamp Thailand"
+    ],
+    "description": "🔴 ปิดรับสมัครแล้ว สำหรับ Fullstack CodeCamp #24 (เริ่มเรียน 5 ต.ค. 69) เปลี่ยนสายใน 3.5 เดือน พร้อมทำ Project, สร้าง Portfolio, Career Prep, Demo Day พบบริษัทจริง และการันตีที่ฝึกงานกับบริษัทพาร์ทเนอร์เพื่อเก็บประสบการณ์แรก",
+    "subtitles": [
+      "เปลี่ยนสายสู่งาน Developer แต่กังวลเรื่องหางานแรก? เราการันตีที่ฝึกงานกับบริษัทพาร์ทเนอร์",
+      "เส้นทางปูสู่การได้งานจริง: เรียน Fullstack → ทำ Project → Portfolio → Career Prep → Demo Day พบบริษัทพาร์ทเนอร์"
+    ],
+    "image": "/courses/offline-weekday-cc24-3-5m.png",
+    "price": 65000,
+    "originalPrice": 120000,
+    "depositAmount": 5000,
+    "lastChanceNote": "🔒 ปิดรับสมัครรุ่น #24 เรียบร้อยแล้ว (เริ่มเรียน 5 ต.ค. 69) สอบถามข้อมูลรอบถัดไปได้ทาง LINE",
+    "duration": "3.5 เดือน (จันทร์ - ศุกร์ 09:00 - 17:00 น.)",
+    "schedule": "จันทร์ - ศุกร์ 09:00 - 17:00 น. (มี Live Streaming ถ่ายทอดสด วันไหนไม่สะดวกเข้าสถาบัน)",
+    "startMonth": "5 ตุลาคม 2569",
+    "type": "Weekday",
+    "tags": ["รับรองโดย สอวช.", "Coding Bootcamp", "เรียนสด Onsite พญาไท", "จ.-ศ. 09:00-17:00", "Live สำรอง & ดูย้อนหลังได้ 1 ปี", "เส้นทางเปลี่ยนสายสู่งาน Developer", "Demo Day พบบริษัทจริง", "การันตีที่ฝึกงานกับพาร์ทเนอร์"],
+    "instructor": "Team CodeCamp Thailand",
+    "content": "หลักสูตรที่เข้นข้นที่สุดของเรา ออกแบบมาเพื่อเปลี่ยน 'คนธรรมดา' ให้เป็น 'มือโปร' ภายในระยะเวลาสั้นๆ ครอบคลุมทั้ง Frontend, Backend, Database และทักษะที่จำเป็นในการสมัครงานจริง รับรองคุณภาพโดยหน่วยงานภาครัฐ (สอวช.) พร้อมเพิ่มความมั่นใจสูงสุดด้วยการการันตีที่ฝึกงานกับบริษัทพาร์ทเนอร์หลังเรียนจบ (เรียนสด Onsite จ.-ศ. 09:00 - 17:00 น. พร้อมระบบ Live Streaming รองรับกรณีไม่สะดวกเดินทางเข้าสถาบัน)",
+    "benefits": [
+      "หลักสูตร STEM เลขที่ TPC690045 รับรองโดย สอวช.",
+      "เรียนสด ณ สถาบัน (อาคารวรรณสรณ์ พญาไท ติด BTS) วันจันทร์ - ศุกร์ 09:00 - 17:00 น.",
+      "ยืดหยุ่นด้วยระบบ Live Streaming ถ่ายทอดสดทุกคลาส: วันไหนติดธุระหรือไม่สะดวกเดินทาง สามารถเข้าเรียนสดออนไลน์หรือดูย้อนหลังได้ตลอด 1 ปี",
+      "⭐ การันตีที่ฝึกงานกับบริษัทพาร์ทเนอร์ หากเรียนจบแล้วยังไม่ได้งาน เพื่อเก็บประสบการณ์ทำงานจริง",
+      "เน้นการทำ Project จริง (Fakebook Clone, Group Project ทำงานร่วมกันเป็นทีมพร้อมยื่นสมัครงาน)",
+      "เวิร์กชอป Career Prep & Portfolio: ตรวจ Resume, ปรับแต่ง GitHub, ซ้อมสัมภาษณ์งาน Tech เพื่อความพร้อมในการสมัครงาน",
+      "กิจกรรม Demo Day & Speed Interview สัมภาษณ์และพรีเซ้นต์ผลงานต่อบริษัทพาร์ทเนอร์ มีโอกาสรับข้อเสนองานในวันจบหลักสูตร",
+      "บริการ Job Matching แนะนำและส่งต่อ CV สู่เครือข่ายบริษัท Tech เพื่อช่วยสนับสนุนการหางานอย่างต่อเนื่อง",
+      "ได้รับใบประกาศนียบัตรเมื่อจบหลักสูตร"
+    ],
+    "requirements": [
+      "ผู้เรียนต้องเตรียมคอมพิวเตอร์โน๊ตบุค (Laptop) มาเรียนด้วยตนเอง (รองรับระบบปฏิบัติการ Windows หรือ macOS)"
+    ],
+    "demoDay": {
+      "title": "Demo Day ต่อหน้าบริษัทจริง",
+      "description": "ปิดคอร์สด้วยการพรีเซ้นต์ผลงานต่อบริษัทพาร์ทเนอร์ที่มาชมผลงานโดยตรง ไม่ใช่แค่ส่ง CV ไปลอยๆ แต่คุณได้เสนอผลงานและพูดคุยกับทีมผู้บริหารและ Tech Lead ที่มีอำนาจตัดสินใจรับเข้าทำงานโดยตรง",
+      "video": "https://www.facebook.com/reel/952477694424569",
+      "images": [
+        "/courses/demo-day-1.jpg",
+        "/courses/demo-day-2.jpg",
+        "/courses/demo-day-3.jpg",
+        "/courses/demo-day-4.jpg",
+        "/courses/demo-day-5.jpg",
+        "/courses/demo-day-6.jpg"
+      ],
+      "bullets": [
+        "บริษัทพาร์ทเนอร์มาชมผลงานที่คุณสร้างจริงในคอร์สโดยตรง",
+        "Speed Interview กับ HR และ Tech Lead โดยตรงในงานเดียวกัน",
+        "โอกาสได้พูดคุยเพื่อร่วมงานหรือฝึกงานกับบริษัทที่สนใจ",
+        "เครือข่ายพาร์ทเนอร์และรุ่นพี่ช่วยแนะนำโอกาสงานอย่างต่อเนื่อง"
+      ]
+    },
+    "courseFlow": {
+      "badge": "ภาพรวมเส้นทางการเรียน",
+      "title": "เส้นทางจากศูนย์ สู่การเริ่มต้นทำงานจริง",
+      "description": "กังวลว่า “เรียนจบแล้ว จะเริ่มต้นหางานและหาประสบการณ์จากที่ไหน?” Fullstack CodeCamp วางเส้นทางครบวงจรตั้งแต่เริ่มเรียนจนถึงการันตีที่ฝึกงานกับบริษัทพาร์ทเนอร์",
+      "video": "https://www.facebook.com/reel/942249482260556",
+      "mainSteps": [
+        { "step": "1", "title": "เรียน Fullstack", "desc": "ปูพื้นฐานสู่การทำงานจริงตลอด 3.5 เดือน" },
+        { "step": "2", "title": "ทำ Project", "desc": "สร้างผลงานจริง Fakebook & Group Project" },
+        { "step": "3", "title": "Demo Day", "desc": "พบบริษัทพาร์ทเนอร์และ Tech Leads" },
+        { "step": "4", "title": "สมัครงาน & สัมภาษณ์", "desc": "ยื่นสมัครงาน Developer พร้อมทีมช่วยผลักดันและส่งต่อ CV" }
+      ],
+      "internshipBranch": {
+        "condition": "↳ สิทธิพิเศษเฉพาะรอบ Onsite: ถ้ายังไม่ได้งานใน Demo Day?",
+        "title": "การันตีที่ฝึกงานกับบริษัทพาร์ทเนอร์",
+        "description": "หากเรียนจบแล้วยังไม่ได้งาน CodeCamp การันตีประสานและจัดหาที่ฝึกงานกับบริษัทพาร์ทเนอร์ให้ เพื่อให้คุณเริ่มต้นเก็บเกี่ยวประสบการณ์ทำงานจริง (สิทธิพิเศษเฉพาะผู้เรียนรูปแบบ Onsite)",
+        "quote": "เพราะสำหรับคนเปลี่ยนสาย การมีประสบการณ์แรก อาจเป็นก้าวสำคัญที่ทำให้การสมัครงานครั้งต่อไปแตกต่างออกไป",
+        "note": "สิทธิพิเศษการันตีที่ฝึกงานกับบริษัทพาร์ทเนอร์สงวนสิทธิ์เฉพาะผู้เรียนรูปแบบ Onsite เท่านั้น (รายละเอียดและเงื่อนไขเป็นไปตามบริษัทพาร์ทเนอร์)"
+      }
+    },
+    "gift": {
+      "title": "คอร์สปรับพื้นฐาน Fullstack JS Developer",
+      "value": 10000,
+      "badge": "สมัครวันนี้ รับฟรีทันที!",
+      "features": [
+        "เข้าเรียนออนไลน์ได้ทันที หลังชำระเงินจองสิทธิ์ โดยไม่ต้องรอเปิดรอบเรียนจริง",
+        "ปูพื้นฐาน JavaScript และ Web Development ตั้งแต่ระดับเริ่มต้น",
+        "เตรียมความพร้อมให้แน่นก่อนเริ่มเรียนจริง ช่วยให้เข้าใจเนื้อหาในรอบปกติได้ง่ายและรวดเร็วขึ้น"
+      ]
+    },
+    "curriculum": [
+      {
+        "phase": "Phase 1: พื้นฐานการสร้างเว็บ",
+        "topics": [
+          "วิธีคิดแบบโปรแกรมเมอร์ & คอมพิวเตอร์เบื้องต้น",
+          "สร้างหน้าเว็บด้วย HTML & CSS ตั้งแต่เริ่มต้น",
+          "จัดการ Layout ให้เว็บรองรับทุกหน้าจอ",
+          "บันทึกและจัดการโค้ดอย่างเป็นระบบด้วย Git"
+        ]
+      },
+      {
+        "phase": "Phase 2: เขียนโปรแกรมและฝึก Logic ด้วย JavaScript",
+        "topics": [
+          "Logic พื้นฐาน: เงื่อนไข ฟังก์ชัน การวนซ้ำ",
+          "การควบคุมหน้าเว็บและตอบสนองต่อผู้ใช้",
+          "ดึงข้อมูลจาก API ภายนอกมาแสดงผล"
+        ]
+      },
+      {
+        "phase": "Phase 3: Frontend สมัยใหม่ด้วย React",
+        "topics": [
+          "โครงสร้าง Component และการรับส่งข้อมูล",
+          "จัดการ State และอัปเดตเว็บแบบ Real-time",
+          "สร้างเว็บหลายหน้าและระบบฟอร์มรับข้อมูล"
+        ]
+      },
+      {
+        "phase": "Phase 4: Backend, Database & Login",
+        "topics": [
+          "สร้าง API เชื่อม Frontend กับ Server",
+          "ออกแบบและจัดการฐานข้อมูลเบื้องต้น",
+          "เชื่อมต่อ Frontend & Backend ครบวงจร",
+          "ระบบสมัครสมาชิก Login และความปลอดภัย"
+        ]
+      },
+      {
+        "phase": "Phase 5: โปรเจกต์จริง & เตรียมตัวสมัครงาน",
+        "topics": [
+          "อัปเกรดเทคโนโลยีสู่ Next.js & TypeScript",
+          "ประยุกต์ใช้ AI Agents ในโปรเจกต์",
+          "พัฒนาโปรเจกต์กลุ่มแบบทีม Developer",
+          "ทำ Resume และพอร์ตโฟลิโอสมัครงาน",
+          "Demo Day พรีเซ้นต์งานต่อบริษัทพาร์ทเนอร์"
+        ]
+      }
+    ],
+    "atmosphereVideos": [
+      "https://www.facebook.com/reel/839700365278090",
+      "https://www.facebook.com/reel/2371963019967892",
+      "https://www.facebook.com/reel/27162975276640646",
+      "https://www.facebook.com/reel/960948023633231"
+    ],
+    "reviewVideos": [
+      "https://www.facebook.com/reel/1628236022159026",
+      "https://www.facebook.com/reel/27877997678485930",
+      "https://www.facebook.com/reel/1294494779515928",
+      "https://www.facebook.com/reel/1233200848896697",
+      "https://www.facebook.com/reel/1496619414725540"
+    ]
+  },
+  {
+    "slug": "fullstack-live-streaming",
+    "isClosed": true,
+    "title": "Fullstack Live Streaming #24",
+    "metaTitle": "Fullstack Live Streaming #24 | Coding Bootcamp ออนไลน์สำหรับคนทำงานประจำ",
+    "metaDescription": "เรียน Coding Bootcamp สด & ดูย้อนหลังได้ 1 ปี ถ่ายทอดสดจากห้องเรียน Onsite พญาไท เหมาะสำหรับคนทำงานประจำที่ต้องการเปลี่ยนสายงานสู่ Developer พร้อมทำ Final Project และร่วม Demo Day พบบริษัท Tech",
+    "keywords": [
+      "Coding Bootcamp",
+      "Bootcamp ออนไลน์",
+      "Fullstack Bootcamp",
+      "เรียนเขียนโปรแกรมคนทำงานประจำ",
+      "เปลี่ยนสายเป็น Developer",
+      "CodeCamp Thailand"
+    ],
+    "description": "🔴 ปิดรับสมัครแล้ว สำหรับ Fullstack Live Streaming #24 สำหรับคนทำงานประจำที่ไม่อยากลาออก หรือไม่สะดวกเข้า Onsite — ถ่ายทอดสดตรงจากห้องเรียน Onsite (จ.-ศ. 09:00 - 17:00 น.) พร้อมทำ Individual Final Project และร่วม Demo Day พบบริษัทจริง",
+    "subtitles": [
+      "เหมาะสำหรับคนทำงานประจำ: ไม่อยากลาออก ไม่สะดวกเดินทางเข้าสถาบัน แต่ต้องการเปลี่ยนสายสู่ Developer",
+      "ยืดหยุ่นสูงสุด: ดู Live สดพร้อมห้อง Onsite หรือจัดเวลาดูย้อนหลังเสาร์-อาทิตย์ พร้อม Community Support คอยช่วยเหลือ"
+    ],
+    "image": "/courses/fullstack-live-streaming.png",
+    "price": 35000,
+    "originalPrice": 70000,
+    "depositAmount": 5000,
+    "lastChanceNote": "🔒 ปิดรับสมัครรุ่น #24 เรียบร้อยแล้ว (เริ่มเรียน 5 ต.ค. 69) สอบถามข้อมูลรอบถัดไปได้ทาง LINE",
+    "duration": "3.5 เดือน (ยืดหยุ่น ดูสดหรือดูย้อนหลังได้ 1 ปี)",
+    "schedule": "ถ่ายทอดสด จันทร์ - ศุกร์ 09:00 - 17:00 น. (ดูสดได้ หรือดูบันทึกย้อนหลังช่วงค่ำ/เสาร์-อาทิตย์ได้ตลอด 1 ปี)",
+    "startMonth": "5 ตุลาคม 2569",
+    "type": "Live Streaming",
+    "tags": ["Coding Bootcamp ออนไลน์", "เหมาะสำหรับคนทำงานประจำ", "ไม่ต้องลาออก", "ดูสดหรือดูย้อนหลังเสาร์-อาทิตย์", "Live จากห้อง Onsite", "Individual Project", "Demo Day พบบริษัทจริง"],
+    "instructor": "Team CodeCamp Thailand",
+    "content": "ออกแบบมาเพื่อ 'คนทำงานประจำ' ที่อยากเปลี่ยนสายงานแต่ยังไม่อยากลาออก หรือผู้ที่ไม่สะดวกเดินทางมาเรียน Onsite ที่พญาไท โดยคุณจะได้รับชม Live Streaming ถ่ายทอดสดแบบ Real-time ตรงจากห้องเรียน Onsite (จันทร์ - ศุกร์ 09:00 - 17:00 น.) สามารถพิมพ์ถาม-ตอบสดได้ หรือหากติดงานช่วงกลางวัน ก็สามารถจัดเวลามาเปิดดูคลิปบันทึกย้อนหลังในช่วงค่ำหรือเสาร์-อาทิตย์ได้อย่างอิสระตลอด 1 ปีเต็ม พร้อมสร้าง Individual Final Project เดี่ยว และเข้าร่วม Demo Day ต่อหน้าบริษัทพาร์ทเนอร์เพื่อสมัครงานได้เช่นเดียวกัน",
+    "benefits": [
+      "ถ่ายทอดสดตรงจากห้อง Onsite จันทร์ - ศุกร์ 09:00 - 17:00 น. ได้เนื้อหาและบรรยากาศเดียวกับคอร์สสด",
+      "ยืดหยุ่นสำหรับคนทำงาน: ดูสดไม่ทัน สามารถจัดเวลาเปิดดูคลิปบันทึกย้อนหลังในวันหยุดเสาร์-อาทิตย์ได้ตลอด 1 ปี",
+      "Q&A และ Community Support: ติดขัดปัญหาหรือโค้ดมีบั๊ก สามารถสอบถามทีมโค้ชและ Mentors ช่วยดูได้ตลอด",
+      "เน้นการพัฒนา Individual Final Project ของตัวเอง (โปรเจกต์เดี่ยวใช้งานได้จริง พร้อมใส่ Portfolio ยื่นสมัครงาน)",
+      "มี Project Review & Final Interview ประเมินผลงานแบบเข้มข้นตัวต่อตัว",
+      "สิทธิ์เข้าร่วมกิจกรรม Demo Day & Speed Interview พรีเซ้นต์ผลงานต่อบริษัทพาร์ทเนอร์",
+      "เวิร์กชอป Career Prep (เขียน Resume & GitHub Portfolio เพื่อสมัครงาน Tech)",
+      "ได้รับใบประกาศนียบัตรเมื่อจบหลักสูตร",
+      "สิทธิ์อัปเกรดเป็นรอบ Onsite พญาไท หากต้องการการันตีที่ฝึกงานกับบริษัทพาร์ทเนอร์"
+    ],
+    "requirements": [
+      "ผู้เรียนต้องเตรียมคอมพิวเตอร์ (Windows หรือ macOS) พร้อมอินเทอร์เน็ตความเร็วสูง และไมโครโฟนสำหรับถาม-ตอบในชั้นเรียนและ Community Support"
+    ],
+    "demoDay": {
+      "title": "Demo Day ต่อหน้าบริษัทจริง",
+      "description": "ปิดคอร์สด้วยการพรีเซ้นต์ผลงานจาก Individual Final Project ต่อบริษัทพาร์ทเนอร์ที่มาชมผลงานโดยตรง นำเสนอผลงานและพูดคุยกับทีมผู้บริหารและ Tech Lead ที่มีอำนาจตัดสินใจรับเข้าทำงานโดยตรง",
+      "video": "https://www.facebook.com/reel/952477694424569",
+      "images": [
+        "/courses/demo-day-1.jpg",
+        "/courses/demo-day-2.jpg",
+        "/courses/demo-day-3.jpg",
+        "/courses/demo-day-4.jpg",
+        "/courses/demo-day-5.jpg",
+        "/courses/demo-day-6.jpg"
+      ],
+      "bullets": [
+        "บริษัทพาร์ทเนอร์มาชมผลงานที่คุณสร้างจริงในคอร์สโดยตรง",
+        "Speed Interview กับ HR และ Tech Lead โดยตรงในงานเดียวกัน",
+        "โอกาสได้พูดคุยเพื่อร่วมงานกับบริษัทที่สนใจโดยตรง",
+        "เครือข่ายพาร์ทเนอร์และรุ่นพี่ช่วยแนะนำโอกาสงานอย่างต่อเนื่อง"
+      ]
+    },
+    "gift": {
+      "title": "คอร์สปรับพื้นฐาน Fullstack JS Developer",
+      "value": 10000,
+      "badge": "สมัครวันนี้ รับฟรีทันที!",
+      "features": [
+        "เข้าเรียนออนไลน์ได้ทันที หลังชำระเงินจองสิทธิ์ โดยไม่ต้องรอเปิดรอบเรียนจริง",
+        "ปูพื้นฐาน JavaScript และ Web Development ตั้งแต่ระดับเริ่มต้น",
+        "เตรียมความพร้อมให้แน่นก่อนเริ่มเรียนจริง ช่วยให้เข้าใจเนื้อหาในรอบปกติได้ง่ายและรวดเร็วขึ้น"
+      ]
+    },
+    "curriculum": [
+      {
+        "phase": "Phase 1: พื้นฐานการสร้างเว็บ",
+        "topics": [
+          "วิธีคิดแบบโปรแกรมเมอร์ & คอมพิวเตอร์เบื้องต้น",
+          "สร้างหน้าเว็บด้วย HTML & CSS ตั้งแต่เริ่มต้น",
+          "จัดการ Layout ให้เว็บรองรับทุกหน้าจอ",
+          "บันทึกและจัดการโค้ดอย่างเป็นระบบด้วย Git & GitHub"
+        ]
+      },
+      {
+        "phase": "Phase 2: เขียนโปรแกรมและฝึก Logic ด้วย JavaScript",
+        "topics": [
+          "Logic พื้นฐาน: เงื่อนไข ฟังก์ชัน การวนซ้ำ",
+          "การควบคุมหน้าเว็บและตอบสนองต่อผู้ใช้ (DOM)",
+          "ดึงข้อมูลจาก API ภายนอกมาแสดงผล"
+        ]
+      },
+      {
+        "phase": "Phase 3: Frontend สมัยใหม่ด้วย React",
+        "topics": [
+          "โครงสร้าง Component และการรับส่งข้อมูล",
+          "จัดการ State และอัปเดตเว็บแบบ Real-time",
+          "สร้างเว็บหลายหน้าและระบบฟอร์มรับข้อมูล"
+        ]
+      },
+      {
+        "phase": "Phase 4: Backend, Database & Login",
+        "topics": [
+          "สร้าง API เชื่อม Frontend กับ Server",
+          "ออกแบบและจัดการฐานข้อมูลเบื้องต้น",
+          "เชื่อมต่อ Frontend & Backend ครบวงจร",
+          "ระบบสมัครสมาชิก Login และความปลอดภัย"
+        ]
+      },
+      {
+        "phase": "Phase 5: โปรเจกต์จริง & เตรียมตัวสมัครงาน",
+        "topics": [
+          "อัปเกรดเทคโนโลยีสู่ Next.js & TypeScript",
+          "ประยุกต์ใช้ AI Agents ในโปรเจกต์",
+          "พัฒนา Individual Final Project (โปรเจกต์เดี่ยว)",
+          "ทำ Resume และพอร์ตโฟลิโอสมัครงาน",
+          "Project Review, Final Interview & Demo Day"
+        ]
+      }
+    ],
+    "atmosphereVideos": [
+      "https://www.facebook.com/reel/839700365278090",
+      "https://www.facebook.com/reel/2371963019967892",
+      "https://www.facebook.com/reel/27162975276640646",
+      "https://www.facebook.com/reel/960948023633231"
+    ],
+    "reviewVideos": [
+      "https://www.facebook.com/reel/1628236022159026",
+      "https://www.facebook.com/reel/27877997678485930",
+      "https://www.facebook.com/reel/1294494779515928",
+      "https://www.facebook.com/reel/1233200848896697",
+      "https://www.facebook.com/reel/1496619414725540"
+    ]
+  },
+  {
+    "slug": "ai-web-app-builder-workshop",
+    "isClosed": true,
+    "title": "AI Web App Builder Workshop",
+    "description": "ไม่เคยเขียนโปรแกรม ก็เริ่มสร้าง Web App ด้วย AI ได้ภายใน 1 วัน เรียนตั้งแต่พื้นฐาน AI/LLM จนถึง Build & Deploy ขึ้น Internet ใช้งานได้จริง",
+    "subtitles": [
+      "ไม่เคยเขียนโปรแกรม ก็สร้าง Web App แรกด้วย AI ได้ใน 1 วัน",
+      "เน้นลงมือทำ Workshop ตลอดวัน เรียนตั้งแต่พื้นฐาน AI จนถึง Deploy ขึ้น Vercel"
+    ],
+    "image": "/courses/ai-web-app-builder-workshop.png",
+    "price": 5900,
+    "hideExclusiveCommunity": true,
+    "duration": "1 วัน",
+    "startMonth": "29 สิงหาคม 2569",
+    "type": "Workshop",
+    "tags": ["สำหรับผู้เริ่มต้น", "Zero to Web App", "1 Day Workshop", "ดูย้อนหลังได้ 1 ปี"],
+    "instructor": "Team CodeCamp Thailand",
+    "content": "คอร์สสำหรับผู้เริ่มต้น คนทำงาน และเจ้าของธุรกิจที่อยากเริ่มสร้าง Web App ด้วย AI โดยไม่จำเป็นต้องมีพื้นฐานการเขียนโปรแกรมมาก่อน ปูพื้นตั้งแต่แนวคิด AI/LLM, LLM 5 Layers, AI Agents, VS Code, Git จนถึง Build & Deploy เว็บไซต์ขึ้น Vercel / Internet ใน 1 วัน (พร้อมตัวเลือกเรียนสดออนไลน์ Live Streaming และดูย้อนหลังได้ 1 ปี)",
+    "benefits": [
+      "เหมาะสำหรับผู้เริ่มต้น ไม่จำเป็นต้องมีพื้นฐานการเขียนโปรแกรมมาก่อน",
+      "เวิร์กชอปสร้าง Web App จริงด้วย React & AI Agents ตลอดทั้งวัน",
+      "ทดลอง Deploy เว็บไซต์ขึ้น Vercel / Internet ใช้งานได้จริง",
+      "รองรับการเข้าเรียนสดออนไลน์ (Live Streaming)",
+      "แถมฟรี Prompt Template, Source Code และรับชมวิดีโอบันทึกย้อนหลังได้ยาวนาน 1 ปีเต็ม",
+      "ได้รับ Certificate of Training เมื่อผ่านการอบรม"
+    ],
+    "requirements": [
+      "ผู้เรียนต้องเตรียมคอมพิวเตอร์โน๊ตบุค (Windows หรือ macOS) มาเรียนด้วยตนเอง"
+    ],
+    "bundle": {
+      "title": "Special 2-Day AI Workshop Bundle",
+      "price": 5900,
+      "originalValue": 12800,
+      "includedCourse": "AI Next.js Fullstack Workshop",
+      "features": [
+        "เรียนสดครบ 2 วัน (29-30 ส.ค. 2569) ตั้งแต่นับหนึ่งจนถึง Fullstack Next.js",
+        "รับชมย้อนหลังได้ยาวนานถึง 1 ปีเต็มทั้ง 2 คอร์ส",
+        "ประหยัดทันที 6,900 บาทจากราคาปกติ (5,900.- จาก 12,800.-)"
+      ]
+    },
+    "curriculum": [
+      {
+        "phase": "Session 1: AI / LLM Fundamentals & Setup (10:00–12:00)",
+        "topics": [
+          "LLM Fundamentals: Layers, Context & Tokens",
+          "การเลือก AI Tools และการควบคุม Cost",
+          "Traditional vs AI Coding Workflow",
+          "Workshop: สร้าง Web Page แรกจาก Prompt & AI Agent"
+        ]
+      },
+      {
+        "phase": "Session 2: Web App Fundamentals & React (13:00–14:30)",
+        "topics": [
+          "ติดตั้ง VS Code, Extensions & Git",
+          "องค์ประกอบ Web App: Frontend, Backend & Database",
+          "Workshop: สร้าง Web App ขนาดเล็กด้วย React & AI"
+        ]
+      },
+      {
+        "phase": "Session 3: Workflow, Testing & Deploy (14:45–17:00)",
+        "topics": [
+          "Architecture & Planning with AI Context (.md)",
+          "Debugging Code & Web App Testing with AI",
+          "Build & Deploy to Vercel via GitHub",
+          "Final Workshop: Recap & Q&A"
+        ]
+      }
+    ],
+    "reviewVideos": [
+      "https://www.facebook.com/reel/1034430439294948"
+    ]
+  },
+  {
+    "slug": "ai-nextjs-fullstack-workshop",
+    "isClosed": true,
+    "title": "AI Next.js Fullstack Workshop",
+    "description": "ยกระดับการพัฒนา Fullstack Web App ด้วย Next.js และ AI Agent แบบครบวงจร ตั้งแต่เริ่มออกแบบ เขียนโค้ด จัดการฐานข้อมูล จนถึง Deploy ขึ้นใช้งานจริงใน 1 วัน",
+    "subtitles": [
+      "เรียนรู้ Workflow การทำงานจริงของ Developer ร่วมกับ AI Agent แบบมืออาชีพ",
+      "สำหรับ Developer และผู้ที่มีพื้นฐาน สู่การสร้าง Next.js Fullstack Web App"
+    ],
+    "image": "/courses/ai-nextjs-fullstack-workshop.png",
+    "price": 6900,
+    "hideExclusiveCommunity": true,
+    "duration": "1 วัน",
+    "startMonth": "30 สิงหาคม 2569",
+    "type": "Workshop",
+    "tags": ["สำหรับ Dev/มีพื้นฐาน", "Next.js Fullstack", "1 Day Workshop", "ดูย้อนหลังได้ 1 ปี"],
+    "instructor": "Team CodeCamp Thailand",
+    "content": "Workshop สำหรับ Developer หรือผู้ที่มีพื้นฐาน Web Development ที่ต้องการจัด Workflow การพัฒนา Web App ยุคใหม่แบบมืออาชีพ เรียนรู้การทำ UI Design, Spec-Driven Development, Project Planning, Next.js, Prisma, Supabase และ Better Auth ร่วมกับ AI Agent มาประกอบกันจน Deploy ผลงานจริงขึ้น Production (พร้อมตัวเลือกเรียนสดออนไลน์ Live Streaming และดูย้อนหลังได้ 1 ปี)",
+    "benefits": [
+      "เหมาะสำหรับ Developer หรือผู้ที่มีพื้นฐาน HTML / CSS / JavaScript",
+      "เรียนรู้ Workflow การพัฒนาแอปยุคใหม่: ออกแบบ วางแผน เขียนโค้ด และ Deploy ด้วย AI",
+      "เชื่อมต่อ Design สู่ VS Code และเขียน Spec ควบคุม AI Agent",
+      "สร้าง Next.js Fullstack App พร้อม Prisma, Supabase & Better Auth",
+      "รองรับการเข้าเรียนสดออนไลน์ (Live Streaming)",
+      "แถมฟรี Source Code, Spec Template, Prompt Workflow และรับชมวิดีโอบันทึกย้อนหลังได้ยาวนาน 1 ปีเต็ม",
+      "ได้รับ Certificate of Training เมื่อผ่านการอบรม"
+    ],
+    "requirements": [
+      "ผู้เรียนควรมีพื้นฐาน Web Development เบื้องต้น (HTML / CSS / JavaScript)",
+      "ผู้เรียนต้องเตรียมคอมพิวเตอร์โน๊ตบุค (Windows หรือ macOS) มาเรียนด้วยตนเอง"
+    ],
+    "bundle": {
+      "title": "Special 2-Day AI Workshop Bundle",
+      "price": 5900,
+      "originalValue": 12800,
+      "includedCourse": "AI Web App Builder Workshop",
+      "features": [
+        "เรียนครบ 2 วัน (29-30 ส.ค. 2569) ตั้งแต่พื้นฐาน AI จนถึง Fullstack Next.js",
+        "ประยุกต์ใช้ AI Agent, Spec-Driven Dev, Prisma, Supabase & Better Auth",
+        "ประหยัดทันที 6,900 บาทจากราคาปกติ (5,900.- จาก 12,800.-)"
+      ]
+    },
+    "curriculum": [
+      {
+        "phase": "Session 1: AI UI Design, MCP & Spec (10:00–12:00)",
+        "topics": [
+          "AI UI Design & Stitch Review",
+          "MCP Integration: Design → VS Code Initial Code",
+          "Spec-Driven Development: design.md & spec.md"
+        ]
+      },
+      {
+        "phase": "Session 2: Planning & Next.js Fullstack (13:00–15:15)",
+        "topics": [
+          "AI Project & Task Planning",
+          "Next.js, TypeScript, Prisma & Supabase",
+          "Authentication with Better Auth",
+          "Workshop: Implement Features with AI Agent"
+        ]
+      },
+      {
+        "phase": "Session 3: AI Debugging, Agent & Production Deploy (15:15–17:00)",
+        "topics": [
+          "AI Debugging & Code Review",
+          "Delegating Tasks to AI Agents & Iterations",
+          "Deploying Application to Production & Config",
+          "Final Recap & Q&A"
+        ]
+      }
+    ],
+    "reviewVideos": [
+      "https://www.facebook.com/reel/1034430439294948"
+    ]
+  },
+  {
+    "slug": "go-web-backend-workshop",
+    "isClosed": true,
+    "title": "Go Web Backend Workshop",
+    "description": "สร้าง Production-ready Backend API ด้วย Go & Gin ผ่านการลงมือทำโปรเจกต์จริง Digital Wallet & Ledger API ภายใน 4 วัน (2 สัปดาห์)",
+    "subtitles": [
+      "สร้าง Production-ready Backend API ด้วย Go & Gin ผ่านโปรเจกต์จริงใน 4 วัน",
+      "ครอบคลุม Go, Gin, PostgreSQL, GORM, JWT, Testing, Docker จนถึง Deploy"
+    ],
+    "image": "/courses/go-web-backend-workshop.png",
+    "price": 8900,
+    "originalPrice": 15900,
+    "hideExclusiveCommunity": true,
+    "duration": "4 วัน (2 สัปดาห์)",
+    "startMonth": "12 กันยายน 2569",
+    "startDate": "2026-09-12",
+    "type": "Workshop",
+    "tags": ["สำหรับ Developer", "Go & Gin", "Backend Project", "4-Day Workshop"],
+    "instructor": "Team CodeCamp Thailand",
+    "content": "คอร์ส Project-based 4 วัน (เสาร์-อาทิตย์ × 2 สัปดาห์) สำหรับ Developer ที่ต้องการเพิ่มทักษะ Backend Development ด้วย Go + Gin สู่ระดับ Production-ready ผ่านการลงมือสร้าง Digital Wallet & Ledger API ตั้งแต่ Go Fundamentals, Routing, Database, JWT, Testing, Docker จนถึง Deploy ขึ้น Cloud",
+    "benefits": [
+      "เหมาะสำหรับ Developer / Programmer ที่ต้องการเพิ่มทักษะ Go Backend (ไม่จำเป็นต้องเก่ง Go มาก่อน)",
+      "ลงมือทำโปรเจกต์จริง Digital Wallet & Ledger API ต่อเนื่องตลอด 4 วัน",
+      "ครอบคลุม Backend Stack ครบวงจร: Go, Gin, PostgreSQL, GORM, JWT & Docker",
+      "มีเว้นช่วง 1 สัปดาห์ระหว่างกลาง (Practice Week) ให้กลับไปทบทวนและพัฒนาต่อ",
+      "รองรับการเข้าเรียนสดออนไลน์ (Live Streaming)",
+      "แถมฟรี Source Code, Architecture Template และรับชมวิดีโอบันทึกย้อนหลังได้ยาวนาน 1 ปีเต็ม",
+      "ได้รับ Certificate of Training เมื่อผ่านการอบรม"
+    ],
+    "requirements": [
+      "ผู้เรียนควรมีพื้นฐานการเขียนโปรแกรมภาษาใดภาษาหนึ่งมาก่อน (เช่น JavaScript, Python, Java ฯลฯ)",
+      "ผู้เรียนต้องเตรียมคอมพิวเตอร์โน๊ตบุค (Windows หรือ macOS) มาเรียนด้วยตนเอง"
+    ],
+    "curriculum": [
+      {
+        "phase": "Day 1: Go Fundamentals & Getting Started with Gin (12 ก.ย. 69)",
+        "topics": [
+          "Recap Go Fundamentals: Syntax และแนวคิดสำคัญของ Go",
+          "HTTP & REST API Concepts ใน Go Backend",
+          "เริ่มต้น Web Backend ด้วย Gin Framework & Project Structure",
+          "สร้าง Endpoint แรกและเริ่มวางโครงสร้างระบบ"
+        ]
+      },
+      {
+        "phase": "Day 2: Routing, Middleware & Main Project (13 ก.ย. 69)",
+        "topics": [
+          "Routing, Route Parameters & Middleware",
+          "Request Validation & Error Handling",
+          "เริ่มต้นพัฒนา Digital Wallet & Ledger API",
+          "เตรียมความพร้อมสำหรับเชื่อมต่อ Database"
+        ]
+      },
+      {
+        "phase": "Practice Week: Homework & Portfolio Project (14-18 ก.ย. 69)",
+        "topics": [
+          "ฝึกฝนทักษะ Go & Gin เพิ่มเติมระหว่างสัปดาห์",
+          "พัฒนาส่วนของ Main Project ต่อเนื่องเพื่อเตรียมเชื่อม Database"
+        ]
+      },
+      {
+        "phase": "Day 3: Database & Authentication (19 ก.ย. 69)",
+        "topics": [
+          "PostgreSQL & Supabase Integration",
+          "การใช้งาน GORM, Database Relations & Transactions",
+          "ระบบ Authentication ด้วย JWT & Password Hashing (bcrypt)",
+          "เชื่อมต่อระบบการโอนเงิน (Deposit / Transfer / Ledger) กับ DB"
+        ]
+      },
+      {
+        "phase": "Day 4: Testing, Docker & Production Deploy (20 ก.ย. 69)",
+        "topics": [
+          "Unit Testing & API Testing ด้วย testify",
+          "Containerize Go Application ด้วย Docker",
+          "Production Configuration & Environment Setup",
+          "Deploy Go Backend ขึ้น Cloud Platform & Recap Project"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "ai-automated-testing-workshop",
+    "hidden": true,
+    "title": "AI Automated Testing Workshop",
+    "metaTitle": "AI Automated Testing: โค้ดเสร็จ เทสพร้อม ด้วย Playwright และ MCP | CodeCamp Thailand",
+    "metaDescription": "เรียนรู้การเขียน Automated Test ยุคใหม่ด้วย Playwright และ AI Model Context Protocol (MCP) 2 วันเต็ม ครอบคลุม E2E Testing, Page Object Model, API Testing, CI/CD และ AI Test Generation สำหรับ QA, SDET และ Developer",
+    "keywords": [
+      "Automated Testing",
+      "AI Automated Testing",
+      "Playwright",
+      "MCP",
+      "Model Context Protocol",
+      "QA",
+      "SDET",
+      "E2E Testing",
+      "Software Testing",
+      "CodeCamp Thailand"
+    ],
+    "description": "ยกระดับการทดสอบเว็บด้วย Playwright ผสานพลัง AI ผ่าน Model Context Protocol (MCP) ตั้งแต่พื้นฐาน E2E Test, POM, API Testing, CI/CD จนถึงให้ AI ช่วย Generate & Debug Test Case ใน 2 วัน",
+    "subtitles": [
+      "สร้าง Automated Test อัจฉริยะด้วย Playwright & Model Context Protocol (MCP)",
+      "ครอบคลุมทั้ง UI, API Testing, CI/CD และให้ AI ช่วย Generate Test Case ครบวงจร"
+    ],
+    "image": "/courses/ai-automated-testing-workshop.webp",
+    "price": 7900,
+    "originalPrice": 14900,
+    "hideExclusiveCommunity": true,
+    "duration": "2 วัน (เสาร์ - อาทิตย์ 09:00 - 16:00 น.)",
+    "schedule": "เสาร์ - อาทิตย์ 09:00 - 16:00 น. (แจ้งวันเรียนเร็วๆ นี้)",
+    "startMonth": "เร็วๆ นี้ (รอบวันเสาร์ - อาทิตย์)",
+    "lastChanceNote": "⚡ เปิดรับสมัครเร็วๆ นี้ (รอบวันเสาร์ - อาทิตย์) — ทัก LINE สอบถามหรือจองสิทธิ์ Early Bird ล่วงหน้า",
+    "type": "Workshop",
+    "tags": [
+      "สำหรับ QA & Developer",
+      "Playwright & MCP",
+      "AI-Powered Testing",
+      "2-Day Workshop",
+      "ดูย้อนหลังได้ 1 ปี"
+    ],
+    "instructor": "ทีมอาจารย์ CodeCamp Thailand",
+    "content": "คอร์สเจาะลึก 2 วันเต็มสำหรับ QA/Tester, SDET และ Developer ที่ต้องการยกระดับการทดสอบซอฟต์แวร์สู่ระดับสากลด้วย Playwright ผสานพลัง AI ผ่าน Model Context Protocol (MCP) เรียนรู้ตั้งแต่พื้นฐาน Automated Testing, Page Object Model (POM), API Testing, CI/CD ด้วย GitHub Actions จนถึงการเชื่อมต่อ Playwright MCP Server เพื่อให้ AI ช่วยสร้าง Test Case จาก User Story และช่วย Debug/Maintain Test อัตโนมัติ",
+    "benefits": [
+      "เรียนรู้ Automated Testing ตั้งแต่พื้นฐานจนถึงระดับใช้งานจริงในองค์กร",
+      "เชี่ยวชาญการใช้ Playwright เครื่องมือ E2E Testing มาตรฐานอันดับหนึ่งในยุคปัจจุบัน",
+      "ออกแบบโครงสร้าง Test ด้วย Page Object Model (POM), Fixtures และ Test Data Management",
+      "ผสาน UI Test + API Testing และตั้งค่า CI/CD Automation ด้วย GitHub Actions",
+      "ประยุกต์ใช้ Model Context Protocol (MCP) ให้ AI ช่วยเขียนและ Debug Test Case",
+      "Capstone Workshop: สร้างชุด Automated Test แบบ End-to-end จริงด้วย AI",
+      "รองรับการเข้าเรียนสดออนไลน์ (Live Streaming) พร้อมรับชมวิดีโอย้อนหลังได้ 1 ปีเต็ม",
+      "ได้รับ Certificate of Training เมื่อผ่านการอบรม"
+    ],
+    "requirements": [
+      "ผู้เรียนควรมีพื้นฐานการเขียนโปรแกรม JavaScript หรือ TypeScript เบื้องต้น",
+      "ผู้เรียนต้องเตรียมคอมพิวเตอร์โน๊ตบุค (Windows หรือ macOS) มาเรียนด้วยตนเอง"
+    ],
+    "curriculum": [
+      {
+        "phase": "Day 1: พื้นฐาน Playwright & โครงสร้างโปรเจกต์",
+        "topics": [
+          "แนวคิด Automated Testing คืออะไร และต่างจาก Manual Testing อย่างไร",
+          "ทำความรู้จัก Playwright: จุดเด่นและข้อเปรียบเทียบกับ Selenium / Cypress",
+          "ติดตั้งและตั้งค่าโปรเจกต์ Playwright ตั้งแต่เริ่มต้น",
+          "Locators, การกระทำพื้นฐาน (click, fill, type, hover) และ Assertions",
+          "Page Object Model (POM): สถาปัตยกรรมการออกแบบและแยก Test Logic",
+          "Fixtures และการทำ Test Data Management",
+          "Visual Testing เบื้องต้นด้วย Screenshot Comparison",
+          "Workshop: เขียน Test ครอบคลุม Flow จริง 1 หน้าเว็บด้วย POM"
+        ]
+      },
+      {
+        "phase": "Day 2: Advanced Testing & AI-Powered Testing ด้วย MCP",
+        "topics": [
+          "API Testing ด้วย Playwright Request Context",
+          "ผสาน UI Test + API Test และการจัดการ Authentication & Session",
+          "CI/CD Integration: GitHub Actions, Parallel Execution และการจัดการ Flaky Tests",
+          "แนะนำ Model Context Protocol (MCP) และภาพรวม Playwright MCP Server",
+          "ใช้ AI ช่วย Generate Test Case จาก User Story และ Requirement",
+          "ใช้ AI ช่วย Debug และ Maintain Test ที่ล้มเหลว",
+          "Capstone Workshop: สร้างชุด Automated Test แบบ End-to-End ด้วย AI",
+          "สรุป Best Practices ในงาน QA/SDET และช่วง Q&A"
+        ]
+      }
+    ],
+    "corporate": {
+      "title": "ต้องการจัดอบรม AI Automated Testing สำหรับทีมในองค์กร?",
+      "description": "CodeCamp Thailand มีบริการ In-house Corporate Training ออกแบบเนื้อหาและเวิร์กชอปให้สอดคล้องกับ Tech Stack และระบบงานจริงของทีมคุณ",
+      "bullets": [
+        "ปรับแต่งเนื้อหาให้เข้ากับ Architecture และระบบจริงของบริษัท",
+        "เลือกเรียน Onsite ณ ออฟฟิศของคุณ หรือ Online Live Workshop",
+        "ให้คำปรึกษาการวางระบบ Automated Testing และ CI/CD Pipeline"
+      ],
+      "ctaText": "ติดต่อจัดอบรมสำหรับองค์กร"
+    }
+  },
+  {
+    "slug": "python-flappy-bird-workshop",
+    "hidden": true,
+    "title": "สร้างเกม Flappy Bird ด้วย Python และ Pygame Zero",
+    "metaTitle": "สร้างเกม Flappy Bird ด้วย Python & Pygame Zero สำหรับน้องๆ มัธยม | CodeCamp Thailand",
+    "metaDescription": "เรียนรู้พื้นฐานการเขียนโค้ดภาษา Python และฝึกตรรกะ Logic คิดแบบโปรแกรมเมอร์ผ่านการสร้างเกม Flappy Bird ด้วย Pygame Zero 4 วันเต็ม สำหรับน้องๆ นักเรียนมัธยม พร้อมสร้างผลงานเกมของตัวเองเล่นได้จริง",
+    "keywords": [
+      "คอร์ส Python เด็ก",
+      "เรียนสร้างเกม",
+      "Pygame Zero",
+      "Flappy Bird Python",
+      "เรียนเขียนโปรแกรม มัธยม",
+      "Python for Kids",
+      "Coding เด็ก",
+      "CodeCamp Thailand"
+    ],
+    "description": "เรียนรู้ภาษา Python และฝึกตรรกะ Logic ผ่านการลงมือสร้างเกม Flappy Bird สุดสนุกด้วย Pygame Zero 4 วันเต็ม สำหรับน้องๆ นักเรียนมัธยม พร้อมสร้างผลงานเกมของตัวเองกลับบ้าน",
+    "subtitles": [
+      "เรียนรู้ Logic และพื้นฐานภาษา Python ผ่านการสร้างเกมยอดฮิต",
+      "สำหรับน้องๆ มัธยม ไม่จำเป็นต้องมีพื้นฐาน เขียนโค้ดเสร็จเล่นได้จริง"
+    ],
+    "image": "/courses/python-flappy-bird-workshop.webp",
+    "price": 4900,
+    "originalPrice": 8900,
+    "hideInstallment3Months": true,
+    "hideExclusiveCommunity": true,
+    "duration": "4 วัน (เสาร์ - อาทิตย์ 3 ชม./วัน รวม 12 ชม.)",
+    "schedule": "เสาร์ - อาทิตย์ (วันละ 3 ชม.) แจ้งตารางรอบเรียนเร็วๆ นี้",
+    "startMonth": "เร็วๆ นี้ (รอบวันเสาร์ - อาทิตย์)",
+    "lastChanceNote": "🎮 เปิดรับสมัครเร็วๆ นี้ (รอบวันเสาร์ - อาทิตย์) — ผู้ปกครองสามารถสอบถามรอบเรียนและจองสิทธิ์ล่วงหน้าได้",
+    "type": "Junior Workshop",
+    "tags": [
+      "สำหรับน้องๆ มัธยม",
+      "Python & Pygame Zero",
+      "Game Development",
+      "เรียน 4 วัน (12 ชม.)",
+      "ไม่จำเป็นต้องมีพื้นฐาน"
+    ],
+    "instructor": "ทีมอาจารย์ CodeCamp Thailand",
+    "content": "คอร์สเรียนสร้างเกมด้วยภาษา Python และ Pygame Zero ออกแบบมาเป็นพิเศษสำหรับน้องๆ นักเรียนระดับมัธยม (และประถมปลายที่มีความสนใจ) เพื่อให้การเริ่มต้นเรียนรู้การเขียนโปรแกรมไม่ใช่เรื่องน่าเบื่อหรือเข้าใจยาก แต่เป็นการเรียนรู้ผ่านการลงมือทำจริง สร้างตัวละคร สั่งการเคลื่อนที่ กำหนดแรงโน้มถ่วง และสร้างระบบเกม Flappy Bird ที่เล่นได้จริงและปรับแต่งได้ตามจินตนาการ พร้อมปูพื้นฐาน Logic ที่แข็งแกร่งสำหรับอนาคต",
+    "benefits": [
+      "ปูพื้นฐานการเขียนโค้ดภาษา Python ซึ่งเป็นภาษายอดนิยมอันดับ 1 ในระดับสากล",
+      "เข้าใจแนวคิดการคิดเชิงคำนวณ (Computational Thinking) และตรรกะ Logic ผ่านการพัฒนาเกม",
+      "เรียนรู้ระบบพิกัดแกน X, Y, Game Loop และการตรวจจับการชน (Collision Detection)",
+      "ลงมือสร้างเกม Flappy Bird ของตัวเองตั้งแต่ศูนย์ พร้อมนำเกมกลับไปอวดเพื่อนและครอบครัว",
+      "สอนโดยทีมอาจารย์และผู้เชี่ยวชาญจาก CodeCamp ที่มีประสบการณ์สอนเข้าใจง่าย เป็นกันเอง",
+      "ได้รับ Certificate of Completion เมื่อสำเร็จการอบรม (สามารถใส่ลง Portfolio เรียนต่อได้)"
+    ],
+    "requirements": [
+      "เหมาะสำหรับน้องๆ ระดับชั้นมัธยมศึกษา (อายุประมาณ 12 - 18 ปี) ไม่จำเป็นต้องมีพื้นฐานการเขียนโปรแกรมมาก่อน",
+      "ผู้เรียนต้องเตรียมคอมพิวเตอร์โน๊ตบุค (Windows หรือ macOS) มาใช้ในการเรียน"
+    ],
+    "curriculum": [
+      {
+        "phase": "Day 1: ติดตั้งและพื้นฐานภาษา Python",
+        "topics": [
+          "ติดตั้งโปรแกรม Python, VS Code และทำความรู้จักเครื่องมือเขียนโค้ด",
+          "แนวคิดตัวแปร (Variables), ชนิดของข้อมูล และการคำนวณพื้นฐาน",
+          "ระบบตรรกะและการตัดสินใจด้วยเงื่อนไข if, elif, else",
+          "Workshop: ฝึกเขียนโปรแกรมทายตัวเลขและเกมข้อความง่ายๆ"
+        ]
+      },
+      {
+        "phase": "Day 2: Python เพื่อการพัฒนาเกม",
+        "topics": [
+          "การสร้างและเรียกใช้ฟังก์ชัน (Functions)",
+          "การเก็บข้อมูลเป็นชุดด้วย List และการอ้างอิงตำแหน่ง (Index)",
+          "การใช้งาน Module เสริม และระบบสุ่มค่าด้วย random",
+          "แนวคิดเบื้องต้นเรื่อง Object, Attribute และ Method ในเกม",
+          "Workshop: เตรียมข้อมูลตัวละคร นก และสิ่งกีดขวางในเกม"
+        ]
+      },
+      {
+        "phase": "Day 3: ก้าวสู่โลกเกมด้วย Pygame Zero",
+        "topics": [
+          "ทำความรู้จัก Pygame Zero โครงสร้างโปรเจกต์ และระบบพิกัดแกน X, Y",
+          "การวาดภาพตัวละคร กราฟิก ข้อความ และการใส่เสียงประกอบ (Sound Effects)",
+          "การรับคำสั่งควบคุมผ่านคีย์บอร์ด (Keyboard Input)",
+          "ระบบฟิสิกส์พื้นฐาน: การเคลื่อนที่, แรงโน้มถ่วง (Gravity), การชน และคะแนน"
+        ]
+      },
+      {
+        "phase": "Day 4: Workshop พัฒนาเกม Flappy Bird ครบวงจร",
+        "topics": [
+          "ออกแบบฉาก ท้องฟ้า ตัวละครนก และท่อสิ่งกีดขวาง",
+          "เขียนระบบการกระพือปีกบิน และระบบสุ่มความสูงท่อ",
+          "ระบบตรวจจับการชน (Collision) และนับคะแนนเมื่อบินผ่านสิ่งกีดขวาง",
+          "ทำหน้าเริ่มเกม (Start Screen), หน้า Game Over และปุ่ม Restart",
+          "ทดสอบและปรับแต่งความยาก ปรับกราฟิก และนำเกมเล่นได้จริงกลับบ้าน"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "offline-ai-web-dev-weekend",
+    "title": "CodeCamp AI Weekend",
+    "description": "เรียน 8 วัน (เสาร์-อาทิตย์) ได้ทักษะสร้างเว็บจริงตั้งแต่ต้นจนจบ พร้อมนำ AI มาช่วยงานได้ทันที โดยไม่ต้องเสียเวลาหลายเดือน",
+    "subtitles": [
+      "ใช้เวลาเรียนน้อย แต่ต่อยอดงานตัวเองได้เร็ว",
+      "เข้าใจโค้ดจริง — สั่ง AI ได้แม่น แก้ได้เอง"
+    ],
+    "isClosed": true,
+    "image": "/courses/offline-ai-web-dev-weekend-3.webp",
+    "price": 13900,
+    "originalPrice": 29000,
+    "hideInstallment3Months": true,
+    "duration": "4 สัปดาห์ (เสาร์-อาทิตย์ | 8 ครั้ง)",
+    "startMonth": "11 กรกฎาคม 2569",
+    "startDate": "2026-07-11",
+    "type": "Weekend",
+    "tags": ["เรียนสด & Streaming", "Weekend", "AI-Powered", "เริ่มต้นได้เลย"],
+    "instructor": "Team CodeCamp Thailand",
+    "content": "ไม่ใช่ทุกคนมีเวลาเรียน Bootcamp หลายเดือน แต่ทุกคนต้องการสร้างสิ่งที่อยากสร้างให้ได้ คอร์สนี้ออกแบบมาสำหรับคนที่อยากได้ทักษะจริง ในเวลาที่น้อยที่สุด เรียน 8 วัน เสาร์-อาทิตย์ ตั้งแต่พื้นฐาน HTML, JavaScript, React จนถึง Backend และ Database เน้นลงมือทำและเข้าใจโครงสร้างจริง พร้อมใช้ AI เป็นเครื่องมือเร่งการเรียนรู้ตลอดทาง จบแล้วนำไปต่อยอดงานของตัวเองได้ทันที ไม่ต้องรอ",
+    "benefits": [
+      "เรียนจบใน 4 สัปดาห์ ไม่ต้องหยุดงาน ไม่ต้องลาออก เรียนแค่เสาร์-อาทิตย์",
+      "ได้ทักษะสร้างเว็บครบ Frontend ถึง Backend พร้อมต่อยอดงานของตัวเองได้ทันที",
+      "เข้าใจโค้ดที่ AI เขียน อ่านได้ แก้เป็น รู้ว่าผิดตรงไหน ไม่ตาบอดสั่งเดาๆ",
+      "เลือกเรียนสดที่สถาบัน หรือเข้าเรียนผ่าน Live Streaming (เสาร์-อาทิตย์ 10:00-16:00 น. รวม 8 ครั้ง)",
+      "เหมาะสำหรับคนทำงานที่อยากสร้างเว็บได้ โดยไม่ต้องลงทุนเวลาหลายเดือน",
+      "ได้รับ Certificate of Completion เมื่อจบหลักสูตร"
+    ],
+    "requirements": [
+      "ผู้เรียนต้องเตรียมคอมพิวเตอร์โน๊ตบุค (Laptop) มาเรียนด้วยตนเอง (รองรับระบบปฏิบัติการ Windows หรือ macOS)",
+      "มีค่าบริการเพิ่มเติมสำหรับเครื่องมือ AI ที่ใช้ในการเรียน (ราคาประหยัดหลักร้อยบาท สามารถสอบถามรายละเอียดเพิ่มเติมได้ผ่านไลน์)"
+    ],
+    "aiToolNote_hidden": {
+      "title": "ใช้ AI ตัวไหนในคอร์สนี้?",
+      "body": "เราสอนผ่าน OpenRouter ซึ่งเป็นตัวกลางที่เชื่อมต่อกับ AI โมเดลได้ทุกตัวในที่เดียว เพราะโลก AI เปลี่ยนเร็ว การยึดติดกับ tool ตัวเดียวไม่ใช่คำตอบ เรียนคอร์สนี้แล้ว สลับไปใช้ Claude, GPT-4o, Gemini หรือโมเดลใหม่ที่ออกมาภายหลังได้ทันที พร้อมเห็น token ที่ใช้จริงต่อ request เข้าใจต้นทุน AI และบริหารให้ประหยัดต้นทุน",
+      "models": ["Claude", "GPT-4o", "Gemini", "Llama", "และโมเดลอื่นๆ"]
+    },
+    "curriculum": [
+      {
+        "phase": "Day 1–2: พื้นฐานเว็บ + เครื่องมือ AI",
+        "topics": [
+          "โครงสร้างเว็บ HTML & CSS พื้นฐานที่ต้องรู้",
+          "การใช้ AI Tools ช่วยเขียนและสร้างหน้าเว็บแรก",
+          "Workflow: สั่ง AI เขียน → อ่านโค้ด → แก้ไขเอง",
+          "Workshop: พัฒนาหน้าเว็บ UI"
+        ]
+      },
+      {
+        "phase": "Day 3–4: คิดแบบโปรแกรมเมอร์",
+        "topics": [
+          "Logic การเขียนโปรแกรมพื้นฐาน",
+          "ควบคุมองค์ประกอบเว็บด้วย DOM & Event",
+          "ดึงข้อมูลจาก API มาแสดงผลบนหน้าเว็บ",
+          "เทคนิคดีบั๊กและแก้ไขโค้ดร่วมกับ AI",
+          "Workshop: ระบบค้นหาและตัวกรองสินค้า"
+        ]
+      },
+      {
+        "phase": "Day 5–6: Frontend ด้วย React",
+        "topics": [
+          "โครงสร้าง React: Component, Props และ State",
+          "จัดการ Form, List และ Routing หลายหน้า",
+          "เชื่อมต่อ API ดึงข้อมูลแบบ Dynamic",
+          "Workshop: หน้าแสดงรายการสินค้าและรายละเอียด"
+        ]
+      },
+      {
+        "phase": "Day 7–8: Backend + Database ครบวงจร",
+        "topics": [
+          "พื้นฐาน Server & Database (Node.js & Prisma)",
+          "ระบบสมัครสมาชิกและเข้าสู่ระบบ (Auth)",
+          "เชื่อมต่อ Frontend (React) เข้ากับ Backend",
+          "Workshop: เว็บดึงข้อมูลจาก Database แบบ Full-stack"
+        ]
+      }
+    ],
+    "bundle": {
+      "title": "AI-Powered Web Development (Weekend) Professional Bundle",
+      "price": 17900,
+      "upgradePrice": 5000,
+      "originalValue": 30000,
+      "includedCourse": "Online Fullstack JavaScript Course",
+      "features": [
+        "วิดีโอเรียนออนไลน์กว่า 100 ชั่วโมง",
+        "ดูย้อนหลังได้ 1 ปีเต็ม",
+        "เรียนทบทวนได้ไม่จำกัด",
+        "เหมาะสำหรับผู้ที่ต้องการศึกษาต่อยอดหลังจบคอร์ส AI"
+      ],
+      "note": "สิทธิ์ส่วนนี้เป็นการเข้าถึงเนื้อหาวิดีโอออนไลน์เท่านั้น"
+    },
+    "corporate": {
+      "title": "องค์กรของคุณใช้ AI แล้ว แต่พนักงานยังตามไม่ทัน?",
+      "description": "หลายบริษัทลงทุนซื้อ AI tools แล้ว แต่พนักงานยังใช้แบบลองผิดลองถูก ไม่มีพื้นฐาน ไม่รู้ว่าโค้ดที่ AI เขียนถูกหรือผิด คอร์สนี้ออกแบบมาเพื่ออัปสกิลทีมให้ใช้ AI ได้จริง ไม่ใช่แค่สั่งงานแล้วหวังผล จัดอบรม Private Class ได้ทั้งแบบ On-site และ Online",
+      "bullets": [
+        
+      ],
+      "ctaText": "สอบถามสำหรับองค์กร"
+    },
+    "videos": [
+      "https://www.facebook.com/reel/1673222283825514"
+    ]
+  },
+  {
+    "slug": "offline-fullstack-weekend",
+    "isClosed": true,
+    "title": "Fullstack CodeCamp (Weekend)",
+    "description": "หลักสูตรมาตรฐานเดียวกับ Bootcamp เรียนสดเสาร์-อาทิตย์ สำหรับคนทำงานที่ต้องการเปลี่ยนสายงานโดยไม่กระทบงานประจำ",
+    "image": "/courses/offline-weekend-cc-clean.png",
+    "price": 85000,
+    "duration": "4 เดือน",
+    "startMonth": "21 กุมภาพันธ์ 2569",
+    "type": "Weekend",
+    "tags": [
+      "รับรองโดย สอวช.",
+      "เรียนสด",
+      "Weekend",
+      "Zero to Hero",
+      "Phaya Thai"
+    ],
+    "instructor": "Team CodeCamp Thailand",
+    "content": "หลักสูตรมาตรฐานเดียวกับรอบปกติที่ปรับตารางเรียนให้เหมาะสมกับคนทำงาน ครอบคลุมเทคโนโลยีสมัยใหม่ครบวงจร พร้อมรับการรับรองมาตรฐาน STEM จาก สอวช.",
+    "benefits": [
+      "หลักสูตร STEM มาตรฐานเดียวกับรอบปกติ รับรองโดย สอวช.",
+      "ไม่กระทบเวลางานหลัก เรียนเจาะลึกทุกวันหยุด",
+      "มีระบบการบ้านและ Workshop ให้ฝึกฝนระหว่างสัปดาห์",
+      "Networking กับเพื่อนร่วมอาชีพในบรรยากาศการเรียนสด",
+      "มีสิทธิ์เข้าร่วม Demo Day & Speed Interview (รอบเดียวกับปกติ)",
+      "ได้รับใบประกาศนียบัตรเมื่อจบหลักสูตร"
+    ],
+    "curriculum": [
+      {
+        "phase": "Phase 1: Zero to Hero (Foundation)",
+        "topics": [
+          "Terminal & Git Mastery",
+          "Web Fundamentals (HTML5, CSS3, Responsive)",
+          "JavaScript ES6+ Essentials",
+          "JavaScript DOM & Event Interaction"
+        ]
+      },
+      {
+        "phase": "Phase 2: Modern Frontend with React",
+        "topics": [
+          "React Fundamentals (JSX, Props, State)",
+          "State Management (useState, useEffect, Zustand)",
+          "App Flow & Routing (React Router)",
+          "UX/UI Design Basics with Figma"
+        ]
+      },
+      {
+        "phase": "Phase 3: Database & Backend Architecture",
+        "topics": [
+          "Database Design (E-R Diagram)",
+          "SQL Mastery with MySQL",
+          "Server-Side with Node.js & Express.js",
+          "Modern ORM with Prisma"
+        ]
+      },
+      {
+        "phase": "Phase 4: Full-stack Integration & Workshops",
+        "topics": [
+          "Auth & Security (JWT, BCrypt)",
+          "Front-to-Back Connection",
+          "Practical Workshops (Full-stack Application)"
+        ]
+      },
+      {
+        "phase": "Phase 5: Capstone Project & Deployment",
+        "topics": [
+          "Personal Capstone Project",
+          "Deployment with Docker & Cloud"
+        ]
+      }
+    ],
+    "videos": ["https://www.facebook.com/reel/1625379031981618"]
+  },
+  {
+    "slug": "online-fullstack",
+    "title": "Online Fullstack CodeCamp",
+    "description": "เรียนออนไลน์เน้นการเรียนรู้ด้วยตนเอง (Self-paced) คุณภาพระดับ Bootcamp จัดเวลาเรียนได้เองตามสะดวก มีกรอบเวลาส่งตรวจโปรเจกต์และยื่นสอบจบภายใน 6 เดือน (ทำครบ จบก่อนได้ทันที) พร้อมรับชมวิดีโอย้อนหลังได้นาน 1 ปีเต็ม",
+    "subtitles": [
+      "ยืดหยุ่น จัดเวลาเรียนได้เองตามสะดวก ไม่จำกัดตารางเวลา",
+      "กรอบเวลายื่นตรวจโปรเจกต์และสอบจบภายใน 6 เดือน (ทำเสร็จครบ จบก่อนได้ทันที)"
+    ],
+    "image": "/courses/online-cc.webp",
+    "price": 15000,
+    "originalPrice": 30000,
+    "duration": "ยื่นสอบภายใน 6 เดือน (จบก่อนได้) / ดูย้อนหลังได้ 1 ปี",
+    "type": "Online",
+    "tags": ["ออนไลน์", "Self-paced", "ยื่นสอบใน 6 เดือน (จบก่อนได้)", "TA Support 6 เดือน", "ใบประกาศนียบัตร"],
+    "instructor": "Team CodeCamp Thailand",
+    "content": "หลักสูตรออนไลน์ที่เน้นการเรียนรู้ด้วยตนเองผ่านวิดีโอบันทึกการสอน จัดเวลาเรียนได้ตามความสะดวกของตัวเอง ครอบคลุมทักษะ Modern Web Development ครบวงจร พร้อมทีม TA คอยช่วยเหลือและตรวจการบ้าน โดยมีกรอบเวลายื่นตรวจโปรเจกต์และสอบจบภายใน 6 เดือน (หากทำเสร็จครบสามารถยื่นสอบจบก่อนได้ทันที) และสามารถเปิดดูวิดีโอย้อนหลังเพื่อทบทวนได้ตลอด 1 ปีเต็ม",
+    "benefits": [
+      "เน้นการเรียนรู้ด้วยตนเอง (Self-paced) จัดเวลาเรียนได้เองตามต้องการอย่างอิสระ",
+      "กรอบเวลาส่งตรวจโปรเจกต์และยื่นสอบจบภายใน 6 เดือน (หากทำเสร็จครบ สามารถยื่นจบก่อนได้ทันที)",
+      "ทีม TA Support คอยดูแล ตอบคำถาม และตรวจโค้ดการบ้านตลอด 6 เดือน",
+      "รับชมวิดีโอบันทึกการสอนย้อนหลังได้นานถึง 1 ปีเต็ม",
+      "มีระบบการบ้าน ข้อสอบ และ Capstone Project เสริมพอร์ตโฟลิโอ",
+      "ได้รับใบประกาศนียบัตรเมื่อผ่านเกณฑ์หลักสูตร"
+    ],
+    "curriculum": [
+      {
+        "phase": "Module 1: Foundations",
+        "topics": [
+          "Introduction to Computer Science",
+          "Terminal with Bash",
+          "HTML5 & CSS3 Essentials",
+          "Git & GitHub"
+        ]
+      },
+      {
+        "phase": "Module 2: JavaScript",
+        "topics": [
+          "JavaScript Basic to Advanced",
+          "JavaScript DOM",
+          "Asynchronous Programming",
+          "Fetch API & REST API"
+        ]
+      },
+      {
+        "phase": "Module 3: Frontend Framework",
+        "topics": [
+          "React Fundamentals",
+          "React Router",
+          "Global State Management",
+          "Form Validation",
+          "UX / UI Design"
+        ]
+      },
+      {
+        "phase": "Module 4: Backend & Workshop",
+        "topics": [
+          "Database Management",
+          "Node.js Essentials",
+          "Connecting Frontend & Backend",
+          "Workshop: Fakebook (Full-stack)"
+        ]
+      },
+      {
+        "phase": "Module 5: Extras (Optional)",
+        "topics": [
+          "Docker Fundamentals",
+          "Test Driven Development (TDD)",
+          "How to Write a Resume",
+          "Node.js Advanced (Extra)"
+        ]
+      }
+    ],
+    "videos": ["https://www.facebook.com/reel/1393117275456774"]
+  }
+]
